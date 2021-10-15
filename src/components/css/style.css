@@ -1,0 +1,24 @@
+*{*margin :0;
+    padding:0; 
+    background-color: rgb(35, 56, 56);
+}
+h2{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+
+.big_box{
+    margin-top: 8%;
+}
+
+.box{
+    width: 130px;
+    height: 180px;
+    border: 10px solid rgb(35, 56, 56);
+    border-radius: 10px;
+}
+
+
+
