@@ -13,7 +13,7 @@
 4. User Interface is very friendly and lets user to see each and every detail in front of them.
 Interface is fairly simple which makes user to application easy. 
 
-Flow chart for methodology:
+## Flow chart for methodology:
 ![image](https://user-images.githubusercontent.com/68697068/137854907-04198e23-9187-4fa4-9398-0199bb7a2367.png)
 
 ### Input Output Screenshots
